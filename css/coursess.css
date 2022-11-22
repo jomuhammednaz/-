@@ -1,0 +1,22 @@
+.our-course{
+    text-align: center;
+    margin-top: 100px;
+    background-color: #eee;
+    padding-bottom: 50px;
+}
+.our-course h1{
+    color: blue;
+    font-size: 50px;
+}
+.our-course p{
+    margin-bottom: 30px;
+}
+.name{
+    margin-top: 20px;
+    color: lime;
+
+}
+.our-course .card:hover{
+    cursor: pointer;
+    border: 1px solid lime;
+}
